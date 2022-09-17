@@ -14,7 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" WIdth="40" WIdth="40" heigth="30" align="CENTER"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" WIdth="40" WIdth="40" heigth="30" align="CENTER"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" WIdth="40" WIdth="40" heigth="30" align="CENTER"/>
-          
+        
+    ![Snake animation](https://github.com/NatoRodrigues/NatoRodrigues/blob/output/github-contribution-grid-snake.svg)
 
 </div>
           
