@@ -1,42 +1,39 @@
 {
     "workbench.colorCustomizations": {
-        "editorCursor.foreground": "#900",
-        "terminalCursor.foreground": "#1ec74e47",
-        "editor.selectionBackground": "#ff0000", // Alterado para vermelho
-        "editor.findMatchBackground": "#f2d6f788", 
+        "editorCursor.foreground": "#009efa",
+        "terminalCursor.foreground": "#c0f9d047",
+        "editor.selectionBackground": "#dfa9a9",
+        "editor.findMatchBackground": "#f2d6f788",
         "editorIndentGuide.activeBackground1": "#ffc400",
         "editorIndentGuide.activeBackground2": "#ffc800",
         "editorIndentGuide.activeBackground3": "#a51283",
         "editorIndentGuide.activeBackground4": "#ff8c00",
         "editorIndentGuide.activeBackground5": "#13a592",
         "editorIndentGuide.activeBackground6": "#ffc400",
-        
-
-            // non-active indent guide colors
+    
         "editorIndentGuide.background1": "#0066ff",
         "editorIndentGuide.background2": "#00e5ff",
         "editorIndentGuide.background3": "#00e5ff",
         "editorIndentGuide.background4": "#00e5ff",
         "editorIndentGuide.background5": "#00e5ff",
         "editorIndentGuide.background6": "#00e5ff"
-    },  
+    },   
     "editor.tokenColorCustomizations": {
-        
-        "keywords": "#e10606",
-        "functions": "#fbff00",
+        "keywords": "#ffd900b7",
+        "functions": "#3cff00",
         "textMateRules": [
             {
                 "scope": "keyword.other.implements.php",
                 "settings": {
-                    "foreground": "#008cff",
-                    "fontStyle": "bold" // Cor para 'implements'
+                    "foreground": "#0b53a7",
+                     
                 }
             },
             {
                 "scope": "keyword.other.extends.php",
                 "settings": {
                     "foreground": "#8d0478",
-                    "fontStyle": "strikethrough" // Cor para 'extends'
+                    "fontStyle": "strikethrough"
                 }
             },
             {
@@ -44,57 +41,23 @@
                 "scope": "entity.name.function",
                 "settings": {
                     "fontStyle": "italic",
-                    "foreground": "#249c06fd"
+                 
                 }
             },
             {
-                "scope": "keyword.other.inherited-class.php",
+                "scope": "support.class.php",
                 "settings": {
-                    "foreground": "#FFA500"
-                }
-            },
-            {
-                "scope": "keyword.other.implements.php",
-                "settings": {
-                    "foreground": "#FFA500" 
-                }
-            },
-            {
-                "scope": [
-                    "support.class.php"
-                  ],
-                  "settings": {
-                    "fontStyle": "bold",
-                    "foreground": "#00ffc8"
-                  }
-            },
-
-            {
-                "scope": "keyword.declaration.accessibility.php",
-                "settings": {
-                    "foreground": "#ffffff" // cor de sua preferência
-                }
                 
-            },
-                
-            {
-                "scope": "keyword",
-                "settings": {
-                    "foreground": "#00ffc8"
+                    "foreground": "#00ffc8",
+                    "fontStyle": "bold underline"
                 }
             },
-
             {
-                "name": "$this",
-                "scope": 
-                    "variable.language.this.php",
+                "scope": "variable.language.this.php",
                 "settings": {
-                "foreground": "#ff7a46"
+                    "foreground": "#ff7a46"
                 }
-
             },
-            
-
             {
                 "scope": [
                     "variable.other.global.php",
@@ -107,62 +70,47 @@
                     "variable.other.constant.js"
                 ],
                 "settings": {
-                    "foreground": "#ffffff" // or any other color you prefer
+                    "foreground": "#ff2424"
                 }
             },
-
             {
-                "scope": "variable.other.global.php",
-                "settings": {
-                  "foreground": "#ffffff"
-                }
-            },
-
-            {
-                "name": "Variáveis",
                 "scope": [
                     "variable",
                     "meta.definition.variable"
                 ],
                 "settings": {
                     "fontStyle": "italic",
-                    "foreground": "#3b2af5d9"
+                    "foreground": "#ffffff"
                 }
             },
-
             {
-                "name": "Parâmetros",
                 "scope": [
                     "variable.parameter",
                     "meta.function.parameters"
                 ],
                 "settings": {
-                    "foreground": "#05fa05"
+                    "foreground": "#ffffff"
                 }
             },
-
             {
-                "name": "Classes",
                 "scope": "entity.name.type.class",
                 "settings": {
-                    "fontStyle": "bold",
-                    "foreground": "#00ffc8"
+                     
+                    "foreground": "#00ffc8",
+                    "fontStyle": "bold underline"
                 }
             },
-            
             {
-                "name": "Métodos",
                 "scope": "entity.name.function",
                 "settings": {
                     "fontStyle": "italic",
-                    "foreground": "#249c06fd"
+                    "foreground": "#ff009d"
                 }
             }
-            
         ]
-    },  
+    }, 
     "phpserver.browser": "firefox",
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "vscode-icons",
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,    //"editor.fontWeight": "300", // Light
     "editor.fontWeight": "400", // Regular
@@ -177,8 +125,12 @@
     
 
     ],
+
+
     "terminal.integrated.cursorWidth": 20,
-    "editor.cursorStyle": "underline",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "blink", // Configura o cursor para piscar em uma frequência regular
+    
     "editor.cursorSmoothCaretAnimation": "explicit",
     "terminal.integrated.cursorStyle": "underline",
     "editor.multiCursorPaste": "full",
@@ -191,7 +143,7 @@
     "git.enableSmartCommit": true,
     "tabnine.experimentalAutoImports": true,
     "open-php-html-js-in-browser.selectedBrowser": "Firefox",
-    "workbench.colorTheme": "Black Italic",
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
     "window.zoomLevel": 3,
     "workbench.editor.showTabs": "single",
     "workbench.statusBar.visible": false,
@@ -199,5 +151,9 @@
     "editor.wordWrap": "on",
     "workbench.editor.enablePreview": false,
     "remoteHub.uncommittedChangesOnEntry": "none",
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "settingsSync.ignoredSettings": [
+        
+    ],
     
 }   
