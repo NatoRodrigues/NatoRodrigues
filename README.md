@@ -18,7 +18,7 @@ A passionate Cloud & Full Stack developer based in Brazil, focused on building r
 ### Languages and Tools
 
 *   **Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD, Linux (Mint).
-*   **Backend:** PHP, Go (Golang), [add other relevant languages].
+*   **Backend:** PHP, Python,
 *   **Database:** PostgreSQL, MySQL, Redis.
 *   **Frontend:** [Add your frontend stack].
 
