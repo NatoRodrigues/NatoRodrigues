@@ -22,4 +22,7 @@ A passionate Cloud & Full Stack developer based in Brazil, focused on building r
 *   **Database:** PostgreSQL, MySQL, Redis.
 *   **Frontend:** [Add your frontend stack].
 
+*   <p align="center">
+  <img src="https://replicate.delivery/xpbkg/bE0eTf9t7a5lG9t8f6A5lG9t8f6A5lG9t8f6A5lG9t8f6A5l/output.svg" alt="Renato Rodrigues Tech Stack" width="800px">
+</p>
 ---
