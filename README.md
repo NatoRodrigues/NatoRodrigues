@@ -3,7 +3,7 @@
 A passionate Cloud & Full Stack developer based in Brazil, focused on building robust, scalable, and high-performance solutions.
 
 🔭 **Currently working as:** Infrastructure Cloud Engineer at Avanade.
-🌱 **Learning:** GOLANG and Advanced Cloud Architectures.
+🌱 **Learning:** AWS and Ansible.
 📚 **Academic:** Master’s student in Computational Modeling (UFRPE), researching performance indices, stochastic modeling, and queuing theory.
 👯 **Open to collaborate on:** Large-scale Full Stack projects and complex distributed systems.
 👨‍💻 **Projects:** Check out my work at [github.com/NatoRodrigues](https://github.com/NatoRodrigues).
@@ -15,8 +15,6 @@ A passionate Cloud & Full Stack developer based in Brazil, focused on building r
 
 ---
 
-### Languages and Tools
-
 ### 🛠️ Tech Stack & Ferramentas
 
 **Cloud & DevOps**
@@ -25,6 +23,7 @@ A passionate Cloud & Full Stack developer based in Brazil, focused on building r
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
