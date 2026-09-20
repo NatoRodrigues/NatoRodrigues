@@ -17,12 +17,29 @@ A passionate Cloud & Full Stack developer based in Brazil, focused on building r
 
 ### Languages and Tools
 
-*   **Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD, Linux (Mint).
-*   **Backend:** PHP, Python,
-*   **Database:** PostgreSQL, MySQL, Redis.
-*   **Frontend:** [Add your frontend stack].
+### 🛠️ Tech Stack & Ferramentas
 
-*   <p align="center">
-  <img src="https://replicate.delivery/xpbkg/bE0eTf9t7a5lG9t8f6A5lG9t8f6A5lG9t8f6A5lG9t8f6A5l/output.svg" alt="Renato Rodrigues Tech Stack" width="800px">
+**Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Linux_Mint-87CEEB?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
 </p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+**Database & Storage**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+ 
 ---
